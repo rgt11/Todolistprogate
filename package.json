@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://rgt11.github.io/Todolistprogate",
+  "homepage": "http://rgt11.github.io/Todolistprogate",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
